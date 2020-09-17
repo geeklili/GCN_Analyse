@@ -1,13 +1,10 @@
-Deep Learning on Graphs with Keras
-====
-
 项目基于 [Semi-Supervised Classification with Graph Convolutional Networks](http://arxiv.org/abs/1609.02907) (ICLR 2017)
-
 
 版本要求
 -----
   * keras (1.0.9 or higher)
   * TensorFlow or Theano
+  
 训练入口
 -----
 ```python train.py```
